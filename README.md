@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Olá!!! eu me cahmo Renan, esse é o meu GitHub 🎉
+### Olá!!! eu me chamo Renan, esse é o meu GitHub 🎉
 
 [![LinkeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-jussiani-223468257/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renan_jussiani/)
