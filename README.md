@@ -18,4 +18,4 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <div/><br/>
 
-O futuro pode ser feito apenas por aqueles que tem vontade de fazelo, e eu quero fazer o meu futuro da tecnologia.
+O futuro pode ser feito apenas por aqueles que tem vontade de faze-lo, e eu quero fazer o meu futuro da tecnologia.
