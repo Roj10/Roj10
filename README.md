@@ -20,4 +20,4 @@
 
 O futuro pode ser feito apenas por aqueles que tem vontade de faze-lo, e eu quero fazer o meu futuro da tecnologia.
 
-![Snake animation](https://github.com/Roj10/Roj10/blob/outputqgithub-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Roj10/Roj10/blob/output/github-contribution-grid-snake.svg)
