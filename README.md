@@ -7,6 +7,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Roj10)<br/>
 
 ![Roj10 GitHub stats](https://github-readme-stats.vercel.app/api?username=Roj10&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roj10)](https://github.com/Roj10/github-readme-stats)
 
 ## Tecnologias que eu uso no dia a dia
 
