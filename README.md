@@ -20,3 +20,4 @@
 
 O futuro pode ser feito apenas por aqueles que tem vontade de faze-lo, e eu quero fazer o meu futuro da tecnologia.
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Roj10&bg_color=1f242d&color=ffffff&line=00eeff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
