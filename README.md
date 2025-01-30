@@ -2,6 +2,8 @@
 
 ### Olá!!! eu me chamo Renan, e esse é o meu GitHub 🎉
 
+## O futuro pode ser feito apenas por aqueles que tem vontade de faze-lo, e eu quero fazer o meu futuro da tecnologia.
+
 [![LinkeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-jussiani-223468257/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renan_jussiani/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Roj10)<br/>
@@ -21,5 +23,3 @@
   <img align="center" alt="Roj10-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   <img align="center" alt="Roj10-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <div/><br/>
-
- ## O futuro pode ser feito apenas por aqueles que tem vontade de faze-lo, e eu quero fazer o meu futuro da tecnologia.
