@@ -8,11 +8,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renan_jussiani/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Roj10)<br/>
 
-![Roj10 GitHub stats](https://github-readme-stats.vercel.app/api?username=Roj10&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roj10&layout=donut&theme=dracula)](https://github.com/Roj10/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Roj10&theme=dark)](https://git.io/streak-stats)
-
-
 📊 Minhas Estatísticas
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Roj10&show_icons=true&theme=dracula" alt="Roj10 GitHub Stats"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roj10&layout=compact&theme=dracula" alt="Top Langs"/> <img height="180em" src="https://streak-stats.demolab.com/?user=Roj10&theme=dracula" alt="GitHub Streak"/> </div>
 🛠 Tecnologias & Ferramentas
