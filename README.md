@@ -4,7 +4,13 @@
 
 🌐 Conecte-se comigo
 
+[![LinkeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-jussiani-223468257/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renan_jussiani/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Roj10)<br/>
 
+![Roj10 GitHub stats](https://github-readme-stats.vercel.app/api?username=Roj10&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roj10&layout=donut&theme=dracula)](https://github.com/Roj10/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Roj10&theme=dark)](https://git.io/streak-stats)
 
 
 📊 Minhas Estatísticas
