@@ -10,7 +10,7 @@
  </div>
 
 ### 🚀 Sobre mim<br/>
-💻 Desenvolvedor Full-Stack em formação
+💻 Desenvolvedor Full-Stack em formação superior
 📚 Sempre aprendendo novas tecnologias
 🔥 Focado em criar soluções inovadoras e eficientes
 💬 Me conta um pouco sobre você! Vamos conectar e trocar ideias sobre tecnologia e desenvolvimento! 😊🚀
